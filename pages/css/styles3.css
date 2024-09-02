@@ -152,7 +152,7 @@
 
 .footer {
     padding: 40px 0;
-    background: url('../assets/images/world_pattern.svg') no-repeat center center;
+    background: url('images/world_pattern.svg') no-repeat center center;
     background-size: cover;
     color: #fff;
 }
